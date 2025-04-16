@@ -1,6 +1,3 @@
-
- * README.md
- * 
  * # Azure Database Connection
  * 
  * This script connects to an Azure SQL Database using the `mssql` package.
