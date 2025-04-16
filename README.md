@@ -1,4 +1,4 @@
-/**
+
  * README.md
  * 
  * # Azure Database Connection
@@ -28,4 +28,3 @@
  * 
  * ## Error Handling
  * If the connection fails, an error message will be logged to the console.
- */
